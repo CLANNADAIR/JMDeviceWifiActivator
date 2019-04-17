@@ -1,0 +1,34 @@
+
+{
+  "name": "react-native-jm-device-wifi-activator",
+  "version": "1.0.0",
+  "description": "几米圈设备配网",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "activator",
+    "wifi"
+  ],
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLANNADAIR/JMDeviceWifiActivator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CLANNADAIR/JMDeviceWifiActivator/issues"
+  },
+  "homepage": "https://github.com/CLANNADAIR/JMDeviceWifiActivator#readme",
+  "author": {
+    "name": "CLANNADAIR",
+    "email": "522674616@qq.com"
+  },
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
